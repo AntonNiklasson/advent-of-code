@@ -1,0 +1,11 @@
+{
+  "name": "advent-of-code",
+  "version": "1.0.0",
+  "repository": "git@github.com:AntonNiklasson/advent-of-code.git",
+  "author": "Anton Niklasson <anton.niklasson@klarna.com>",
+  "private": true,
+  "dependencies": {
+    "nodemon": "^2.0.1",
+    "prettier": "^1.19.1"
+  }
+}
